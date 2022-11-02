@@ -20,7 +20,7 @@
       <li>Pigs</li>
       <li>Horses</li>
       <li>Cats</li>
-    </ul>  
+    </ul> 
   
   </body>
   </html>
