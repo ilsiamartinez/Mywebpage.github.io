@@ -25,4 +25,17 @@
     </ul> 
   
   </body>
-  </html>
+ 
+<html lang="en-US"> 
+  <head>
+    <meta name="viewport" content="width=device=width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css"> 
+  </head>
+  <body>
+  <div class="navbar">
+    <li><a href="./">About</a></li> 
+  </div>
+  <div class="main">
+    <div class="clearfix" width=80%>
+      <img class="img1" src"ilsia-picture.jpg" alt="A snapchat mirror picture of me" width="30%">
+    </html>
