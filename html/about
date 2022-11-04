@@ -3,10 +3,16 @@
 <head>
   <link rel="stylesheet" href="../css/mystyle.css">
 </head>
-<body>
-  <H1> Here are some things you should know about me!</H1>
 
-  <p> My name is Ilsia Martinez-Perez. I am seventeen years old. I am left handed and am an animal lover. 
-  My favorite color is blue.</p>
+<body>
+
+  ## Here are some things you should know about me!
+
+  <p> 
+  My name is Ilsia Martinez-Perez. I am seventeen years old. I am left handed. When people find out that I'm 
+  left handed, they think it's cool but It's actually a pain. I contantly bump into someone's shoulder when I'm 
+  writing. Anyways, I'm an animal lover, if you did not know. My favorit color is navy blue. 
+  </p>
+  
 </body>
 </html>
